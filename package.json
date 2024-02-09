@@ -1,0 +1,28 @@
+{
+  "name": "taiko-automation",
+  "version": "1.0.0",
+  "description": "This project is a demo of the automation deployer on Taiko chain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josh-trading/taiko-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josh-trading/taiko-automation/issues"
+  },
+  "homepage": "https://github.com/josh-trading/taiko-automation#readme",
+  "dependencies": {
+    "@types/node": "^20.11.16",
+    "alchemy-sdk": "^3.1.2",
+    "dotenv": "^16.4.1",
+    "ethers": "^6.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
